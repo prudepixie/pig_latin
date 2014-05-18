@@ -1,6 +1,12 @@
 # PigLatin
 
-TODO: Write a gem description
+Web App that translates English to Pig Latin 
+
+The rules of pig latin are as follows:
+
+For words that begin with consonant sounds, the initial consonant or consonant cluster is moved to the end of the word, and "ay" is added, as in the following examples: "happy" → "appyhay".
+
+For words that begin with vowel sounds or silent letter, you just add ay to the end. Examples are: "egg" → "eggay"
 
 ## Installation
 
@@ -16,14 +22,4 @@ Or install it yourself as:
 
     $ gem install pig_latin
 
-## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/pig_latin/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
